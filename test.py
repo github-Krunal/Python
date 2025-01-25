@@ -1,5 +1,0 @@
-## comment written
-
-'''lorem
-
-lorem'''
