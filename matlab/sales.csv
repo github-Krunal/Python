@@ -1,0 +1,1001 @@
+OrderID,Date,CustomerID,Product,Category,Quantity,Price,Total,PaymentMethod,Country
+1001,2025-01-07,C436,Headphones,Electronics,5,1500,7500,Credit Card,Canada
+1002,2025-01-15,C107,T-Shirt,Fashion,5,800,4000,UPI,UK
+1003,2025-01-21,C103,Microwave,Home,2,12000,24000,COD,Germany
+1004,2025-01-19,C215,Microwave,Home,3,12000,36000,COD,India
+1005,2025-01-11,C088,Washing Machine,Home,5,30000,150000,Credit Card,India
+1006,2025-01-04,C360,Smartphone,Electronics,3,20000,60000,UPI,India
+1007,2025-01-22,C309,Headphones,Electronics,2,1500,3000,Debit Card,Canada
+1008,2025-01-24,C492,Tablet,Electronics,2,25000,50000,Debit Card,Germany
+1009,2025-01-28,C277,Shoes,Fashion,1,2500,2500,Credit Card,Canada
+1010,2025-01-12,C314,Microwave,Home,5,12000,60000,COD,India
+1011,2025-01-12,C345,Microwave,Home,1,12000,12000,UPI,Germany
+1012,2025-01-27,C059,Shoes,Fashion,2,2500,5000,UPI,Canada
+1013,2025-01-28,C188,Tablet,Electronics,3,25000,75000,UPI,Australia
+1014,2025-01-12,C055,Laptop,Electronics,4,65000,260000,Debit Card,Canada
+1015,2025-01-25,C131,Dress,Fashion,5,3500,17500,UPI,UK
+1016,2025-01-19,C135,Smartphone,Electronics,5,20000,100000,UPI,USA
+1017,2025-01-09,C167,Laptop,Electronics,2,65000,130000,UPI,Germany
+1018,2025-01-04,C089,Dress,Fashion,4,3500,14000,UPI,USA
+1019,2025-01-14,C242,Dress,Fashion,2,3500,7000,COD,Australia
+1020,2025-01-09,C346,Tablet,Electronics,5,25000,125000,Credit Card,UK
+1021,2025-01-02,C340,Headphones,Electronics,4,1500,6000,Debit Card,UK
+1022,2025-01-15,C444,Laptop,Electronics,4,65000,260000,PayPal,USA
+1023,2025-01-29,C264,Washing Machine,Home,3,30000,90000,Debit Card,Australia
+1024,2025-01-14,C081,Headphones,Electronics,4,1500,6000,PayPal,Germany
+1025,2025-01-18,C360,Headphones,Electronics,4,1500,6000,UPI,India
+1026,2025-01-02,C390,Shoes,Fashion,2,2500,5000,Debit Card,Canada
+1027,2025-01-04,C310,Dress,Fashion,5,3500,17500,UPI,India
+1028,2025-01-31,C402,Laptop,Electronics,2,65000,130000,COD,UK
+1029,2025-01-12,C162,T-Shirt,Fashion,2,800,1600,Debit Card,India
+1030,2025-01-30,C484,Book,Stationery,4,400,1600,COD,Australia
+1031,2025-01-25,C190,Tablet,Electronics,5,25000,125000,Debit Card,Canada
+1032,2025-01-16,C237,Laptop,Electronics,2,65000,130000,PayPal,UK
+1033,2025-01-15,C053,Dress,Fashion,2,3500,7000,COD,Australia
+1034,2025-01-25,C252,Tablet,Electronics,4,25000,100000,PayPal,Germany
+1035,2025-01-28,C493,Book,Stationery,1,400,400,Credit Card,UK
+1036,2025-01-29,C015,Tablet,Electronics,5,25000,125000,COD,UK
+1037,2025-01-01,C345,Dress,Fashion,1,3500,3500,Debit Card,Canada
+1038,2025-01-24,C129,Microwave,Home,4,12000,48000,Credit Card,USA
+1039,2025-01-08,C472,Book,Stationery,3,400,1200,UPI,Australia
+1040,2025-01-19,C081,Dress,Fashion,3,3500,10500,PayPal,USA
+1041,2025-01-03,C289,Laptop,Electronics,3,65000,195000,PayPal,India
+1042,2025-01-05,C490,Microwave,Home,2,12000,24000,Credit Card,UK
+1043,2025-01-09,C028,Book,Stationery,1,400,400,Credit Card,Canada
+1044,2025-01-08,C268,Laptop,Electronics,2,65000,130000,Debit Card,India
+1045,2025-01-01,C048,Laptop,Electronics,5,65000,325000,COD,Canada
+1046,2025-01-03,C172,Washing Machine,Home,3,30000,90000,Debit Card,UK
+1047,2025-01-03,C449,Dress,Fashion,3,3500,10500,UPI,Australia
+1048,2025-01-05,C431,Dress,Fashion,3,3500,10500,UPI,Germany
+1049,2025-01-01,C005,Dress,Fashion,2,3500,7000,Credit Card,Germany
+1050,2025-01-23,C255,Book,Stationery,3,400,1200,Credit Card,Canada
+1051,2025-01-09,C207,Tablet,Electronics,2,25000,50000,COD,Australia
+1052,2025-01-10,C380,T-Shirt,Fashion,5,800,4000,UPI,Australia
+1053,2025-01-19,C063,Laptop,Electronics,1,65000,65000,Credit Card,USA
+1054,2025-01-20,C096,Microwave,Home,4,12000,48000,UPI,Germany
+1055,2025-01-30,C485,Shoes,Fashion,5,2500,12500,Credit Card,India
+1056,2025-01-15,C171,Washing Machine,Home,5,30000,150000,UPI,UK
+1057,2025-01-04,C013,Book,Stationery,3,400,1200,UPI,USA
+1058,2025-01-19,C086,Smartphone,Electronics,4,20000,80000,PayPal,Australia
+1059,2025-01-02,C170,T-Shirt,Fashion,5,800,4000,Credit Card,Canada
+1060,2025-01-30,C441,Smartphone,Electronics,5,20000,100000,Debit Card,Australia
+1061,2025-01-06,C284,Book,Stationery,4,400,1600,PayPal,USA
+1062,2025-01-12,C044,Laptop,Electronics,4,65000,260000,PayPal,Australia
+1063,2025-01-30,C446,Microwave,Home,3,12000,36000,Credit Card,India
+1064,2025-01-26,C348,Tablet,Electronics,1,25000,25000,PayPal,UK
+1065,2025-01-07,C190,Tablet,Electronics,1,25000,25000,PayPal,India
+1066,2025-01-01,C377,Dress,Fashion,3,3500,10500,Debit Card,India
+1067,2025-01-30,C121,T-Shirt,Fashion,4,800,3200,UPI,USA
+1068,2025-01-13,C233,T-Shirt,Fashion,3,800,2400,Credit Card,Canada
+1069,2025-01-07,C198,Laptop,Electronics,3,65000,195000,UPI,UK
+1070,2025-01-09,C318,T-Shirt,Fashion,5,800,4000,COD,USA
+1071,2025-01-01,C307,Laptop,Electronics,2,65000,130000,Debit Card,USA
+1072,2025-01-12,C152,Book,Stationery,3,400,1200,UPI,Canada
+1073,2025-01-22,C160,Smartphone,Electronics,1,20000,20000,PayPal,USA
+1074,2025-01-20,C113,Shoes,Fashion,1,2500,2500,COD,India
+1075,2025-01-26,C052,Dress,Fashion,4,3500,14000,PayPal,USA
+1076,2025-01-30,C295,Laptop,Electronics,2,65000,130000,Debit Card,Canada
+1077,2025-01-03,C113,Laptop,Electronics,5,65000,325000,Credit Card,India
+1078,2025-01-17,C440,Dress,Fashion,1,3500,3500,Credit Card,USA
+1079,2025-01-27,C113,Smartphone,Electronics,2,20000,40000,COD,UK
+1080,2025-01-02,C220,Washing Machine,Home,5,30000,150000,Credit Card,Germany
+1081,2025-01-01,C385,Tablet,Electronics,3,25000,75000,Credit Card,Australia
+1082,2025-01-30,C130,Headphones,Electronics,5,1500,7500,UPI,Australia
+1083,2025-01-12,C218,Dress,Fashion,4,3500,14000,Credit Card,UK
+1084,2025-01-23,C203,Laptop,Electronics,3,65000,195000,PayPal,Canada
+1085,2025-01-17,C255,Headphones,Electronics,5,1500,7500,COD,USA
+1086,2025-01-20,C098,Tablet,Electronics,3,25000,75000,COD,Australia
+1087,2025-01-31,C240,Laptop,Electronics,1,65000,65000,PayPal,USA
+1088,2025-01-09,C124,Headphones,Electronics,3,1500,4500,Debit Card,Canada
+1089,2025-01-06,C464,Shoes,Fashion,5,2500,12500,Debit Card,Canada
+1090,2025-01-03,C148,Shoes,Fashion,4,2500,10000,COD,UK
+1091,2025-01-27,C420,Tablet,Electronics,3,25000,75000,Debit Card,Canada
+1092,2025-01-26,C451,Dress,Fashion,3,3500,10500,COD,Australia
+1093,2025-01-20,C352,T-Shirt,Fashion,4,800,3200,Credit Card,UK
+1094,2025-01-09,C417,Smartphone,Electronics,2,20000,40000,UPI,USA
+1095,2025-01-08,C129,Tablet,Electronics,3,25000,75000,Debit Card,India
+1096,2025-01-28,C441,Book,Stationery,1,400,400,Credit Card,Canada
+1097,2025-01-18,C151,Headphones,Electronics,2,1500,3000,COD,Australia
+1098,2025-01-03,C263,Headphones,Electronics,4,1500,6000,Credit Card,Australia
+1099,2025-01-16,C346,Dress,Fashion,1,3500,3500,COD,Germany
+1100,2025-01-20,C060,Dress,Fashion,1,3500,3500,COD,Australia
+1101,2025-01-02,C385,Microwave,Home,4,12000,48000,Debit Card,Canada
+1102,2025-01-05,C037,T-Shirt,Fashion,3,800,2400,Credit Card,UK
+1103,2025-01-23,C009,Smartphone,Electronics,1,20000,20000,Debit Card,Canada
+1104,2025-01-03,C147,Laptop,Electronics,3,65000,195000,PayPal,Germany
+1105,2025-01-20,C152,Dress,Fashion,1,3500,3500,COD,Canada
+1106,2025-01-24,C116,Dress,Fashion,3,3500,10500,Debit Card,USA
+1107,2025-01-17,C456,Tablet,Electronics,4,25000,100000,Debit Card,USA
+1108,2025-01-06,C104,Book,Stationery,4,400,1600,Credit Card,UK
+1109,2025-01-30,C227,Tablet,Electronics,1,25000,25000,UPI,Germany
+1110,2025-01-03,C153,Smartphone,Electronics,5,20000,100000,UPI,USA
+1111,2025-01-18,C384,Washing Machine,Home,2,30000,60000,PayPal,India
+1112,2025-01-02,C310,T-Shirt,Fashion,3,800,2400,Credit Card,Canada
+1113,2025-01-16,C445,T-Shirt,Fashion,1,800,800,Debit Card,India
+1114,2025-01-04,C161,Tablet,Electronics,4,25000,100000,UPI,India
+1115,2025-01-01,C398,Shoes,Fashion,5,2500,12500,Debit Card,Australia
+1116,2025-01-16,C404,Microwave,Home,3,12000,36000,PayPal,Germany
+1117,2025-01-17,C128,T-Shirt,Fashion,1,800,800,Debit Card,Canada
+1118,2025-01-16,C460,Washing Machine,Home,3,30000,90000,COD,Germany
+1119,2025-01-19,C470,Dress,Fashion,5,3500,17500,PayPal,Canada
+1120,2025-01-19,C438,Shoes,Fashion,3,2500,7500,UPI,Germany
+1121,2025-01-27,C226,Tablet,Electronics,5,25000,125000,PayPal,India
+1122,2025-01-30,C097,Smartphone,Electronics,4,20000,80000,COD,USA
+1123,2025-01-15,C448,Tablet,Electronics,1,25000,25000,Debit Card,Canada
+1124,2025-01-05,C317,Washing Machine,Home,3,30000,90000,UPI,Canada
+1125,2025-01-04,C035,Laptop,Electronics,1,65000,65000,Credit Card,UK
+1126,2025-01-17,C172,Washing Machine,Home,4,30000,120000,PayPal,Australia
+1127,2025-01-30,C477,Headphones,Electronics,5,1500,7500,Debit Card,USA
+1128,2025-01-06,C099,Tablet,Electronics,4,25000,100000,UPI,Canada
+1129,2025-01-09,C037,Laptop,Electronics,5,65000,325000,UPI,Australia
+1130,2025-01-17,C302,Shoes,Fashion,5,2500,12500,Debit Card,USA
+1131,2025-01-31,C099,Dress,Fashion,4,3500,14000,Credit Card,Germany
+1132,2025-01-01,C116,T-Shirt,Fashion,5,800,4000,COD,Germany
+1133,2025-01-21,C416,Book,Stationery,1,400,400,PayPal,USA
+1134,2025-01-03,C128,Headphones,Electronics,2,1500,3000,COD,Canada
+1135,2025-01-25,C490,Shoes,Fashion,2,2500,5000,PayPal,UK
+1136,2025-01-03,C360,Headphones,Electronics,2,1500,3000,COD,UK
+1137,2025-01-15,C342,Dress,Fashion,2,3500,7000,Credit Card,Australia
+1138,2025-01-31,C155,Headphones,Electronics,2,1500,3000,UPI,USA
+1139,2025-01-02,C474,Microwave,Home,1,12000,12000,UPI,USA
+1140,2025-01-08,C417,Book,Stationery,1,400,400,Debit Card,Canada
+1141,2025-01-11,C246,Washing Machine,Home,5,30000,150000,Debit Card,Australia
+1142,2025-01-10,C247,Smartphone,Electronics,2,20000,40000,UPI,UK
+1143,2025-01-03,C306,Washing Machine,Home,1,30000,30000,Credit Card,Canada
+1144,2025-01-24,C013,Shoes,Fashion,4,2500,10000,UPI,USA
+1145,2025-01-26,C391,Book,Stationery,1,400,400,COD,USA
+1146,2025-01-04,C173,Dress,Fashion,4,3500,14000,UPI,Australia
+1147,2025-01-01,C264,T-Shirt,Fashion,4,800,3200,UPI,UK
+1148,2025-01-19,C471,Headphones,Electronics,4,1500,6000,Credit Card,Canada
+1149,2025-01-02,C322,Tablet,Electronics,3,25000,75000,Debit Card,Canada
+1150,2025-01-25,C186,Book,Stationery,5,400,2000,COD,USA
+1151,2025-01-22,C314,T-Shirt,Fashion,2,800,1600,UPI,Germany
+1152,2025-01-22,C305,Book,Stationery,4,400,1600,COD,UK
+1153,2025-01-10,C326,T-Shirt,Fashion,3,800,2400,Credit Card,India
+1154,2025-01-28,C101,Microwave,Home,1,12000,12000,Debit Card,Australia
+1155,2025-01-08,C053,Book,Stationery,4,400,1600,UPI,USA
+1156,2025-01-12,C108,Headphones,Electronics,5,1500,7500,Credit Card,UK
+1157,2025-01-07,C196,Tablet,Electronics,5,25000,125000,Debit Card,UK
+1158,2025-01-20,C350,Laptop,Electronics,3,65000,195000,Credit Card,Germany
+1159,2025-01-23,C424,Tablet,Electronics,4,25000,100000,Debit Card,Canada
+1160,2025-01-16,C269,Laptop,Electronics,2,65000,130000,Credit Card,Canada
+1161,2025-01-28,C106,Book,Stationery,3,400,1200,Debit Card,Canada
+1162,2025-01-17,C120,Shoes,Fashion,3,2500,7500,Debit Card,Canada
+1163,2025-01-28,C058,Headphones,Electronics,2,1500,3000,UPI,India
+1164,2025-01-05,C474,Washing Machine,Home,5,30000,150000,PayPal,USA
+1165,2025-01-30,C279,Shoes,Fashion,1,2500,2500,COD,Germany
+1166,2025-01-12,C129,Microwave,Home,2,12000,24000,COD,India
+1167,2025-01-26,C001,Washing Machine,Home,2,30000,60000,COD,USA
+1168,2025-01-30,C118,Microwave,Home,1,12000,12000,PayPal,Germany
+1169,2025-01-08,C237,T-Shirt,Fashion,5,800,4000,Debit Card,Germany
+1170,2025-01-01,C272,Washing Machine,Home,5,30000,150000,Credit Card,Canada
+1171,2025-01-07,C192,Dress,Fashion,5,3500,17500,Credit Card,India
+1172,2025-01-22,C349,Microwave,Home,3,12000,36000,COD,Australia
+1173,2025-01-12,C154,Laptop,Electronics,3,65000,195000,COD,Germany
+1174,2025-01-05,C086,T-Shirt,Fashion,1,800,800,UPI,India
+1175,2025-01-29,C462,Dress,Fashion,4,3500,14000,Credit Card,Germany
+1176,2025-01-05,C047,Tablet,Electronics,1,25000,25000,COD,India
+1177,2025-01-30,C238,Tablet,Electronics,4,25000,100000,UPI,India
+1178,2025-01-05,C204,Smartphone,Electronics,2,20000,40000,Credit Card,UK
+1179,2025-01-26,C432,Dress,Fashion,5,3500,17500,PayPal,UK
+1180,2025-01-07,C100,Smartphone,Electronics,1,20000,20000,Credit Card,UK
+1181,2025-01-30,C222,Book,Stationery,5,400,2000,PayPal,Germany
+1182,2025-01-23,C250,Book,Stationery,2,400,800,COD,Canada
+1183,2025-01-22,C325,Washing Machine,Home,4,30000,120000,Credit Card,Canada
+1184,2025-01-02,C180,Smartphone,Electronics,2,20000,40000,PayPal,Australia
+1185,2025-01-26,C147,Washing Machine,Home,2,30000,60000,Debit Card,Canada
+1186,2025-01-01,C325,Dress,Fashion,5,3500,17500,Credit Card,UK
+1187,2025-01-04,C016,Laptop,Electronics,2,65000,130000,Debit Card,USA
+1188,2025-01-17,C476,Book,Stationery,3,400,1200,Debit Card,Canada
+1189,2025-01-20,C152,Tablet,Electronics,4,25000,100000,UPI,UK
+1190,2025-01-18,C163,Headphones,Electronics,4,1500,6000,COD,Australia
+1191,2025-01-01,C417,T-Shirt,Fashion,5,800,4000,COD,India
+1192,2025-01-19,C427,Tablet,Electronics,5,25000,125000,Debit Card,UK
+1193,2025-01-12,C323,Headphones,Electronics,1,1500,1500,Debit Card,UK
+1194,2025-01-01,C168,Headphones,Electronics,2,1500,3000,COD,Australia
+1195,2025-01-11,C044,T-Shirt,Fashion,5,800,4000,COD,UK
+1196,2025-01-13,C012,T-Shirt,Fashion,2,800,1600,COD,Germany
+1197,2025-01-29,C499,Tablet,Electronics,2,25000,50000,COD,Australia
+1198,2025-01-03,C215,Book,Stationery,1,400,400,UPI,UK
+1199,2025-01-26,C264,Book,Stationery,5,400,2000,PayPal,Canada
+1200,2025-01-26,C458,Headphones,Electronics,2,1500,3000,PayPal,Australia
+1201,2025-01-30,C418,Shoes,Fashion,3,2500,7500,COD,Australia
+1202,2025-01-09,C391,Headphones,Electronics,4,1500,6000,COD,USA
+1203,2025-01-26,C114,Shoes,Fashion,5,2500,12500,COD,Germany
+1204,2025-01-11,C413,Washing Machine,Home,4,30000,120000,COD,India
+1205,2025-01-25,C277,Dress,Fashion,5,3500,17500,COD,India
+1206,2025-01-25,C164,Microwave,Home,2,12000,24000,Debit Card,Germany
+1207,2025-01-05,C457,Washing Machine,Home,3,30000,90000,UPI,UK
+1208,2025-01-17,C099,Dress,Fashion,4,3500,14000,UPI,Germany
+1209,2025-01-18,C497,Laptop,Electronics,5,65000,325000,Credit Card,Germany
+1210,2025-01-12,C369,Smartphone,Electronics,5,20000,100000,PayPal,India
+1211,2025-01-23,C217,Smartphone,Electronics,3,20000,60000,Debit Card,USA
+1212,2025-01-09,C286,Headphones,Electronics,1,1500,1500,Debit Card,Canada
+1213,2025-01-17,C062,Shoes,Fashion,4,2500,10000,Credit Card,Australia
+1214,2025-01-16,C217,Headphones,Electronics,5,1500,7500,Debit Card,USA
+1215,2025-01-27,C019,Washing Machine,Home,1,30000,30000,PayPal,Australia
+1216,2025-01-04,C396,Laptop,Electronics,5,65000,325000,COD,Germany
+1217,2025-01-09,C403,Book,Stationery,4,400,1600,PayPal,Canada
+1218,2025-01-09,C455,T-Shirt,Fashion,4,800,3200,UPI,USA
+1219,2025-01-14,C223,Tablet,Electronics,4,25000,100000,PayPal,UK
+1220,2025-01-19,C367,Shoes,Fashion,5,2500,12500,PayPal,UK
+1221,2025-01-05,C099,Shoes,Fashion,4,2500,10000,Debit Card,UK
+1222,2025-01-25,C436,T-Shirt,Fashion,3,800,2400,COD,Canada
+1223,2025-01-21,C484,Smartphone,Electronics,5,20000,100000,PayPal,Australia
+1224,2025-01-23,C144,Microwave,Home,1,12000,12000,COD,Canada
+1225,2025-01-07,C109,Dress,Fashion,5,3500,17500,Debit Card,Germany
+1226,2025-01-10,C186,Dress,Fashion,2,3500,7000,UPI,UK
+1227,2025-01-05,C163,T-Shirt,Fashion,5,800,4000,Debit Card,India
+1228,2025-01-11,C331,Tablet,Electronics,2,25000,50000,PayPal,India
+1229,2025-01-15,C076,Tablet,Electronics,1,25000,25000,PayPal,UK
+1230,2025-01-10,C442,Laptop,Electronics,4,65000,260000,Credit Card,Germany
+1231,2025-01-17,C253,Headphones,Electronics,5,1500,7500,UPI,Canada
+1232,2025-01-08,C170,Dress,Fashion,1,3500,3500,Debit Card,Australia
+1233,2025-01-18,C283,Smartphone,Electronics,2,20000,40000,Credit Card,Australia
+1234,2025-01-02,C005,Headphones,Electronics,5,1500,7500,PayPal,USA
+1235,2025-01-05,C422,Smartphone,Electronics,3,20000,60000,COD,India
+1236,2025-01-08,C496,Headphones,Electronics,5,1500,7500,COD,Canada
+1237,2025-01-01,C342,Dress,Fashion,4,3500,14000,Debit Card,India
+1238,2025-01-17,C327,Smartphone,Electronics,1,20000,20000,UPI,Australia
+1239,2025-01-13,C132,Dress,Fashion,4,3500,14000,UPI,UK
+1240,2025-01-06,C252,Laptop,Electronics,3,65000,195000,COD,Canada
+1241,2025-01-29,C364,Laptop,Electronics,3,65000,195000,Debit Card,Australia
+1242,2025-01-10,C346,Smartphone,Electronics,3,20000,60000,Debit Card,India
+1243,2025-01-07,C126,Tablet,Electronics,3,25000,75000,UPI,UK
+1244,2025-01-13,C141,Smartphone,Electronics,2,20000,40000,Debit Card,India
+1245,2025-01-28,C126,Microwave,Home,2,12000,24000,PayPal,Australia
+1246,2025-01-20,C476,Tablet,Electronics,5,25000,125000,PayPal,USA
+1247,2025-01-31,C361,Tablet,Electronics,1,25000,25000,COD,UK
+1248,2025-01-03,C461,Microwave,Home,4,12000,48000,COD,Canada
+1249,2025-01-30,C191,Book,Stationery,4,400,1600,UPI,USA
+1250,2025-01-17,C409,Dress,Fashion,1,3500,3500,PayPal,UK
+1251,2025-01-06,C117,Shoes,Fashion,2,2500,5000,Debit Card,Canada
+1252,2025-01-12,C173,Washing Machine,Home,5,30000,150000,PayPal,Australia
+1253,2025-01-29,C303,Laptop,Electronics,5,65000,325000,Debit Card,USA
+1254,2025-01-16,C374,Shoes,Fashion,5,2500,12500,UPI,UK
+1255,2025-01-11,C252,Smartphone,Electronics,5,20000,100000,COD,India
+1256,2025-01-04,C227,Dress,Fashion,3,3500,10500,COD,Germany
+1257,2025-01-20,C441,T-Shirt,Fashion,2,800,1600,UPI,Canada
+1258,2025-01-15,C233,Dress,Fashion,1,3500,3500,Debit Card,Germany
+1259,2025-01-14,C143,Tablet,Electronics,1,25000,25000,PayPal,Australia
+1260,2025-01-21,C054,Laptop,Electronics,3,65000,195000,PayPal,Australia
+1261,2025-01-16,C471,Book,Stationery,1,400,400,UPI,USA
+1262,2025-01-11,C012,T-Shirt,Fashion,2,800,1600,COD,USA
+1263,2025-01-16,C456,Book,Stationery,4,400,1600,PayPal,Germany
+1264,2025-01-24,C156,Microwave,Home,5,12000,60000,UPI,UK
+1265,2025-01-08,C122,Washing Machine,Home,4,30000,120000,PayPal,Canada
+1266,2025-01-04,C090,Tablet,Electronics,2,25000,50000,Debit Card,Germany
+1267,2025-01-28,C178,Laptop,Electronics,4,65000,260000,Credit Card,Canada
+1268,2025-01-28,C357,Smartphone,Electronics,1,20000,20000,PayPal,Australia
+1269,2025-01-04,C192,Dress,Fashion,3,3500,10500,Credit Card,India
+1270,2025-01-22,C447,Book,Stationery,1,400,400,Debit Card,USA
+1271,2025-01-09,C417,Shoes,Fashion,5,2500,12500,PayPal,Canada
+1272,2025-01-20,C461,Headphones,Electronics,4,1500,6000,UPI,USA
+1273,2025-01-16,C413,Shoes,Fashion,5,2500,12500,COD,USA
+1274,2025-01-14,C035,Laptop,Electronics,5,65000,325000,COD,Australia
+1275,2025-01-06,C082,Headphones,Electronics,3,1500,4500,PayPal,Canada
+1276,2025-01-05,C303,Microwave,Home,1,12000,12000,COD,Germany
+1277,2025-01-02,C010,Tablet,Electronics,2,25000,50000,Credit Card,Germany
+1278,2025-01-27,C365,Laptop,Electronics,5,65000,325000,UPI,UK
+1279,2025-01-23,C289,Book,Stationery,1,400,400,PayPal,Australia
+1280,2025-01-18,C224,Washing Machine,Home,1,30000,30000,Credit Card,Australia
+1281,2025-01-11,C341,Headphones,Electronics,2,1500,3000,UPI,USA
+1282,2025-01-31,C217,Shoes,Fashion,3,2500,7500,UPI,India
+1283,2025-01-27,C177,Tablet,Electronics,5,25000,125000,COD,USA
+1284,2025-01-01,C098,Tablet,Electronics,1,25000,25000,PayPal,UK
+1285,2025-01-03,C385,Shoes,Fashion,5,2500,12500,Debit Card,Canada
+1286,2025-01-16,C311,T-Shirt,Fashion,4,800,3200,UPI,India
+1287,2025-01-17,C197,Microwave,Home,5,12000,60000,Credit Card,Canada
+1288,2025-01-06,C259,Book,Stationery,5,400,2000,Credit Card,Germany
+1289,2025-01-23,C485,Book,Stationery,5,400,2000,COD,UK
+1290,2025-01-05,C202,T-Shirt,Fashion,2,800,1600,UPI,Canada
+1291,2025-01-19,C145,Smartphone,Electronics,5,20000,100000,Credit Card,India
+1292,2025-01-14,C457,Smartphone,Electronics,1,20000,20000,COD,UK
+1293,2025-01-19,C173,Laptop,Electronics,5,65000,325000,UPI,USA
+1294,2025-01-04,C446,Book,Stationery,1,400,400,COD,Canada
+1295,2025-01-17,C488,T-Shirt,Fashion,2,800,1600,Credit Card,Canada
+1296,2025-01-28,C095,Washing Machine,Home,2,30000,60000,Credit Card,Germany
+1297,2025-01-26,C162,T-Shirt,Fashion,3,800,2400,COD,USA
+1298,2025-01-27,C306,Smartphone,Electronics,4,20000,80000,Credit Card,Germany
+1299,2025-01-01,C054,Laptop,Electronics,4,65000,260000,Debit Card,USA
+1300,2025-01-05,C478,Book,Stationery,3,400,1200,UPI,Canada
+1301,2025-01-25,C401,Washing Machine,Home,5,30000,150000,PayPal,Germany
+1302,2025-01-21,C398,Tablet,Electronics,2,25000,50000,Debit Card,India
+1303,2025-01-11,C435,Smartphone,Electronics,4,20000,80000,PayPal,India
+1304,2025-01-02,C294,Book,Stationery,2,400,800,PayPal,Canada
+1305,2025-01-02,C338,T-Shirt,Fashion,3,800,2400,Credit Card,Australia
+1306,2025-01-19,C447,Headphones,Electronics,2,1500,3000,Credit Card,Germany
+1307,2025-01-20,C249,Tablet,Electronics,1,25000,25000,UPI,UK
+1308,2025-01-24,C335,Headphones,Electronics,4,1500,6000,Credit Card,Germany
+1309,2025-01-30,C247,Tablet,Electronics,2,25000,50000,PayPal,Canada
+1310,2025-01-19,C081,Shoes,Fashion,5,2500,12500,PayPal,Australia
+1311,2025-01-29,C388,Tablet,Electronics,2,25000,50000,PayPal,Australia
+1312,2025-01-24,C401,Laptop,Electronics,2,65000,130000,Credit Card,UK
+1313,2025-01-17,C340,Washing Machine,Home,5,30000,150000,UPI,Germany
+1314,2025-01-02,C262,Book,Stationery,5,400,2000,Credit Card,Canada
+1315,2025-01-02,C205,Tablet,Electronics,3,25000,75000,UPI,Canada
+1316,2025-01-11,C240,T-Shirt,Fashion,3,800,2400,Debit Card,India
+1317,2025-01-19,C111,Tablet,Electronics,1,25000,25000,Credit Card,Germany
+1318,2025-01-23,C183,Washing Machine,Home,3,30000,90000,COD,Germany
+1319,2025-01-22,C400,Laptop,Electronics,4,65000,260000,UPI,Canada
+1320,2025-01-08,C388,Washing Machine,Home,1,30000,30000,PayPal,India
+1321,2025-01-03,C352,Microwave,Home,3,12000,36000,Debit Card,Germany
+1322,2025-01-27,C093,Shoes,Fashion,2,2500,5000,UPI,USA
+1323,2025-01-29,C122,T-Shirt,Fashion,3,800,2400,Debit Card,Australia
+1324,2025-01-19,C277,Shoes,Fashion,5,2500,12500,PayPal,Australia
+1325,2025-01-18,C092,Headphones,Electronics,2,1500,3000,Debit Card,UK
+1326,2025-01-29,C022,Washing Machine,Home,5,30000,150000,PayPal,UK
+1327,2025-01-06,C001,Smartphone,Electronics,5,20000,100000,PayPal,UK
+1328,2025-01-09,C012,Smartphone,Electronics,2,20000,40000,UPI,UK
+1329,2025-01-14,C034,Shoes,Fashion,1,2500,2500,PayPal,Germany
+1330,2025-01-14,C218,T-Shirt,Fashion,5,800,4000,Credit Card,UK
+1331,2025-01-27,C073,Microwave,Home,2,12000,24000,PayPal,India
+1332,2025-01-25,C047,Tablet,Electronics,1,25000,25000,PayPal,Canada
+1333,2025-01-22,C239,Washing Machine,Home,3,30000,90000,Debit Card,Germany
+1334,2025-01-31,C048,T-Shirt,Fashion,5,800,4000,COD,Germany
+1335,2025-01-17,C026,Tablet,Electronics,4,25000,100000,Credit Card,USA
+1336,2025-01-01,C008,Dress,Fashion,1,3500,3500,UPI,UK
+1337,2025-01-03,C253,Tablet,Electronics,4,25000,100000,PayPal,USA
+1338,2025-01-15,C303,T-Shirt,Fashion,2,800,1600,Debit Card,Germany
+1339,2025-01-28,C471,Shoes,Fashion,2,2500,5000,COD,Germany
+1340,2025-01-13,C154,Dress,Fashion,3,3500,10500,Debit Card,UK
+1341,2025-01-24,C371,Washing Machine,Home,3,30000,90000,UPI,Germany
+1342,2025-01-15,C407,Washing Machine,Home,3,30000,90000,UPI,Australia
+1343,2025-01-15,C493,Washing Machine,Home,2,30000,60000,Debit Card,UK
+1344,2025-01-26,C294,Washing Machine,Home,3,30000,90000,PayPal,Australia
+1345,2025-01-19,C015,Smartphone,Electronics,1,20000,20000,Debit Card,UK
+1346,2025-01-23,C485,Smartphone,Electronics,4,20000,80000,UPI,India
+1347,2025-01-10,C039,Tablet,Electronics,1,25000,25000,Credit Card,Canada
+1348,2025-01-17,C231,Headphones,Electronics,2,1500,3000,COD,Germany
+1349,2025-01-30,C300,Headphones,Electronics,1,1500,1500,UPI,Australia
+1350,2025-01-17,C013,Book,Stationery,4,400,1600,Debit Card,Germany
+1351,2025-01-25,C068,T-Shirt,Fashion,2,800,1600,UPI,Australia
+1352,2025-01-03,C233,Dress,Fashion,5,3500,17500,PayPal,Australia
+1353,2025-01-18,C111,T-Shirt,Fashion,4,800,3200,PayPal,India
+1354,2025-01-15,C470,Shoes,Fashion,2,2500,5000,PayPal,India
+1355,2025-01-15,C264,Dress,Fashion,1,3500,3500,Credit Card,Germany
+1356,2025-01-12,C083,T-Shirt,Fashion,2,800,1600,COD,USA
+1357,2025-01-09,C101,Shoes,Fashion,4,2500,10000,Credit Card,Canada
+1358,2025-01-26,C320,T-Shirt,Fashion,2,800,1600,Credit Card,India
+1359,2025-01-27,C440,Headphones,Electronics,3,1500,4500,COD,Germany
+1360,2025-01-13,C454,Tablet,Electronics,5,25000,125000,COD,India
+1361,2025-01-25,C289,Laptop,Electronics,5,65000,325000,Credit Card,Canada
+1362,2025-01-22,C277,Tablet,Electronics,4,25000,100000,Debit Card,Germany
+1363,2025-01-30,C331,Headphones,Electronics,1,1500,1500,UPI,USA
+1364,2025-01-23,C387,Headphones,Electronics,3,1500,4500,COD,India
+1365,2025-01-31,C040,Smartphone,Electronics,5,20000,100000,Credit Card,UK
+1366,2025-01-04,C408,Tablet,Electronics,2,25000,50000,PayPal,India
+1367,2025-01-20,C220,Washing Machine,Home,3,30000,90000,PayPal,Australia
+1368,2025-01-04,C335,Microwave,Home,1,12000,12000,Credit Card,USA
+1369,2025-01-30,C486,Laptop,Electronics,3,65000,195000,Credit Card,UK
+1370,2025-01-30,C441,Washing Machine,Home,2,30000,60000,COD,Canada
+1371,2025-01-15,C203,Book,Stationery,2,400,800,UPI,USA
+1372,2025-01-19,C173,Laptop,Electronics,4,65000,260000,PayPal,Australia
+1373,2025-01-05,C326,Tablet,Electronics,2,25000,50000,COD,Canada
+1374,2025-01-22,C324,Tablet,Electronics,3,25000,75000,UPI,Australia
+1375,2025-01-20,C225,Smartphone,Electronics,4,20000,80000,PayPal,Australia
+1376,2025-01-17,C140,Shoes,Fashion,1,2500,2500,COD,Canada
+1377,2025-01-26,C142,Laptop,Electronics,5,65000,325000,PayPal,Canada
+1378,2025-01-30,C139,Washing Machine,Home,4,30000,120000,PayPal,India
+1379,2025-01-13,C491,Laptop,Electronics,3,65000,195000,PayPal,Australia
+1380,2025-01-01,C390,Microwave,Home,2,12000,24000,COD,Germany
+1381,2025-01-24,C010,Dress,Fashion,5,3500,17500,UPI,Canada
+1382,2025-01-23,C138,Tablet,Electronics,4,25000,100000,UPI,Canada
+1383,2025-01-02,C013,T-Shirt,Fashion,2,800,1600,UPI,UK
+1384,2025-01-20,C321,Microwave,Home,5,12000,60000,Debit Card,USA
+1385,2025-01-09,C273,Dress,Fashion,1,3500,3500,PayPal,UK
+1386,2025-01-11,C399,Headphones,Electronics,3,1500,4500,COD,UK
+1387,2025-01-30,C095,Tablet,Electronics,1,25000,25000,COD,Germany
+1388,2025-01-05,C318,Headphones,Electronics,4,1500,6000,UPI,Germany
+1389,2025-01-12,C434,Microwave,Home,5,12000,60000,PayPal,Australia
+1390,2025-01-24,C459,Washing Machine,Home,1,30000,30000,Debit Card,UK
+1391,2025-01-02,C076,T-Shirt,Fashion,3,800,2400,Debit Card,UK
+1392,2025-01-03,C001,Book,Stationery,4,400,1600,Credit Card,India
+1393,2025-01-29,C328,Washing Machine,Home,3,30000,90000,Debit Card,Canada
+1394,2025-01-09,C229,T-Shirt,Fashion,4,800,3200,PayPal,Germany
+1395,2025-01-30,C291,Laptop,Electronics,5,65000,325000,UPI,USA
+1396,2025-01-05,C005,Dress,Fashion,3,3500,10500,COD,India
+1397,2025-01-27,C078,Smartphone,Electronics,2,20000,40000,Debit Card,India
+1398,2025-01-30,C132,Dress,Fashion,1,3500,3500,COD,Germany
+1399,2025-01-13,C042,Dress,Fashion,1,3500,3500,UPI,Germany
+1400,2025-01-18,C296,Dress,Fashion,3,3500,10500,UPI,Australia
+1401,2025-01-29,C422,Dress,Fashion,1,3500,3500,Debit Card,Germany
+1402,2025-01-23,C063,Dress,Fashion,1,3500,3500,Credit Card,Australia
+1403,2025-01-25,C145,Dress,Fashion,1,3500,3500,Credit Card,UK
+1404,2025-01-15,C450,Headphones,Electronics,5,1500,7500,Debit Card,USA
+1405,2025-01-08,C104,Smartphone,Electronics,3,20000,60000,COD,Australia
+1406,2025-01-07,C435,Tablet,Electronics,3,25000,75000,Credit Card,Australia
+1407,2025-01-07,C179,Smartphone,Electronics,2,20000,40000,Debit Card,Germany
+1408,2025-01-20,C015,Smartphone,Electronics,5,20000,100000,PayPal,USA
+1409,2025-01-01,C478,Dress,Fashion,3,3500,10500,COD,Canada
+1410,2025-01-04,C157,Laptop,Electronics,1,65000,65000,Credit Card,Australia
+1411,2025-01-01,C485,Shoes,Fashion,3,2500,7500,COD,Canada
+1412,2025-01-23,C289,Laptop,Electronics,4,65000,260000,UPI,India
+1413,2025-01-22,C322,Laptop,Electronics,2,65000,130000,UPI,Germany
+1414,2025-01-05,C123,Headphones,Electronics,2,1500,3000,Debit Card,USA
+1415,2025-01-01,C118,Smartphone,Electronics,5,20000,100000,UPI,Germany
+1416,2025-01-31,C303,Book,Stationery,4,400,1600,PayPal,USA
+1417,2025-01-13,C216,Headphones,Electronics,4,1500,6000,COD,Canada
+1418,2025-01-24,C015,Smartphone,Electronics,5,20000,100000,UPI,India
+1419,2025-01-08,C261,T-Shirt,Fashion,5,800,4000,COD,Germany
+1420,2025-01-15,C324,Book,Stationery,4,400,1600,UPI,UK
+1421,2025-01-13,C130,Shoes,Fashion,3,2500,7500,COD,India
+1422,2025-01-31,C115,T-Shirt,Fashion,3,800,2400,COD,Canada
+1423,2025-01-04,C292,Headphones,Electronics,2,1500,3000,COD,Australia
+1424,2025-01-11,C283,Headphones,Electronics,5,1500,7500,PayPal,India
+1425,2025-01-20,C011,Washing Machine,Home,2,30000,60000,PayPal,Canada
+1426,2025-01-08,C038,Shoes,Fashion,2,2500,5000,Debit Card,Canada
+1427,2025-01-14,C363,Microwave,Home,4,12000,48000,COD,Australia
+1428,2025-01-26,C141,Tablet,Electronics,2,25000,50000,PayPal,Germany
+1429,2025-01-25,C481,Laptop,Electronics,4,65000,260000,Debit Card,Canada
+1430,2025-01-11,C460,Headphones,Electronics,4,1500,6000,COD,India
+1431,2025-01-04,C496,Book,Stationery,4,400,1600,PayPal,USA
+1432,2025-01-05,C376,Tablet,Electronics,5,25000,125000,Debit Card,Germany
+1433,2025-01-08,C127,Dress,Fashion,2,3500,7000,Debit Card,Germany
+1434,2025-01-17,C092,Smartphone,Electronics,2,20000,40000,Credit Card,India
+1435,2025-01-09,C051,Washing Machine,Home,5,30000,150000,COD,USA
+1436,2025-01-14,C296,Dress,Fashion,1,3500,3500,UPI,India
+1437,2025-01-22,C267,T-Shirt,Fashion,1,800,800,PayPal,India
+1438,2025-01-14,C101,Shoes,Fashion,5,2500,12500,COD,Australia
+1439,2025-01-26,C110,Shoes,Fashion,4,2500,10000,PayPal,India
+1440,2025-01-22,C471,Headphones,Electronics,1,1500,1500,PayPal,UK
+1441,2025-01-01,C319,Tablet,Electronics,3,25000,75000,Credit Card,USA
+1442,2025-01-08,C399,T-Shirt,Fashion,5,800,4000,Credit Card,Canada
+1443,2025-01-15,C457,Microwave,Home,5,12000,60000,Debit Card,UK
+1444,2025-01-09,C202,Shoes,Fashion,4,2500,10000,Debit Card,USA
+1445,2025-01-25,C117,Microwave,Home,2,12000,24000,UPI,Germany
+1446,2025-01-09,C291,Smartphone,Electronics,4,20000,80000,Credit Card,Germany
+1447,2025-01-25,C090,T-Shirt,Fashion,3,800,2400,UPI,India
+1448,2025-01-06,C386,Tablet,Electronics,2,25000,50000,UPI,Australia
+1449,2025-01-27,C418,Shoes,Fashion,3,2500,7500,Credit Card,Germany
+1450,2025-01-17,C128,Laptop,Electronics,3,65000,195000,Debit Card,USA
+1451,2025-01-27,C364,T-Shirt,Fashion,3,800,2400,COD,USA
+1452,2025-01-19,C182,Microwave,Home,1,12000,12000,COD,Australia
+1453,2025-01-07,C180,Shoes,Fashion,5,2500,12500,COD,India
+1454,2025-01-24,C161,Shoes,Fashion,1,2500,2500,PayPal,Canada
+1455,2025-01-29,C063,Tablet,Electronics,3,25000,75000,Debit Card,USA
+1456,2025-01-22,C154,Smartphone,Electronics,4,20000,80000,PayPal,Germany
+1457,2025-01-18,C469,Shoes,Fashion,1,2500,2500,UPI,UK
+1458,2025-01-07,C337,Laptop,Electronics,4,65000,260000,Credit Card,Germany
+1459,2025-01-09,C177,Dress,Fashion,4,3500,14000,UPI,India
+1460,2025-01-22,C342,Microwave,Home,4,12000,48000,PayPal,India
+1461,2025-01-31,C189,Book,Stationery,1,400,400,UPI,India
+1462,2025-01-07,C257,Headphones,Electronics,5,1500,7500,COD,USA
+1463,2025-01-30,C215,Headphones,Electronics,3,1500,4500,PayPal,Canada
+1464,2025-01-27,C440,T-Shirt,Fashion,3,800,2400,COD,Germany
+1465,2025-01-30,C032,Microwave,Home,5,12000,60000,COD,Canada
+1466,2025-01-17,C429,Washing Machine,Home,5,30000,150000,PayPal,Germany
+1467,2025-01-30,C144,Smartphone,Electronics,3,20000,60000,UPI,UK
+1468,2025-01-18,C257,Shoes,Fashion,3,2500,7500,Debit Card,USA
+1469,2025-01-15,C498,Laptop,Electronics,2,65000,130000,PayPal,UK
+1470,2025-01-22,C476,Shoes,Fashion,1,2500,2500,UPI,USA
+1471,2025-01-18,C222,Headphones,Electronics,3,1500,4500,Credit Card,Australia
+1472,2025-01-31,C132,Washing Machine,Home,1,30000,30000,Credit Card,UK
+1473,2025-01-08,C413,Microwave,Home,3,12000,36000,COD,USA
+1474,2025-01-10,C458,Microwave,Home,3,12000,36000,UPI,Canada
+1475,2025-01-14,C162,T-Shirt,Fashion,4,800,3200,COD,UK
+1476,2025-01-01,C087,Tablet,Electronics,4,25000,100000,COD,USA
+1477,2025-01-18,C391,Microwave,Home,5,12000,60000,Debit Card,Canada
+1478,2025-01-08,C321,Microwave,Home,1,12000,12000,Credit Card,UK
+1479,2025-01-23,C323,Smartphone,Electronics,3,20000,60000,Credit Card,Australia
+1480,2025-01-31,C328,Microwave,Home,1,12000,12000,PayPal,Germany
+1481,2025-01-15,C229,Book,Stationery,3,400,1200,PayPal,Australia
+1482,2025-01-19,C097,Book,Stationery,4,400,1600,PayPal,Germany
+1483,2025-01-15,C264,Washing Machine,Home,2,30000,60000,Debit Card,Germany
+1484,2025-01-03,C096,Dress,Fashion,3,3500,10500,Credit Card,UK
+1485,2025-01-16,C452,T-Shirt,Fashion,4,800,3200,Credit Card,USA
+1486,2025-01-05,C182,Laptop,Electronics,5,65000,325000,Debit Card,Canada
+1487,2025-01-14,C223,Book,Stationery,2,400,800,UPI,Australia
+1488,2025-01-07,C330,Tablet,Electronics,1,25000,25000,PayPal,India
+1489,2025-01-23,C085,Microwave,Home,3,12000,36000,Debit Card,Canada
+1490,2025-01-16,C381,Washing Machine,Home,3,30000,90000,PayPal,UK
+1491,2025-01-04,C285,Book,Stationery,4,400,1600,Credit Card,Germany
+1492,2025-01-18,C002,Laptop,Electronics,1,65000,65000,COD,USA
+1493,2025-01-15,C197,Laptop,Electronics,4,65000,260000,Credit Card,India
+1494,2025-01-11,C234,Microwave,Home,2,12000,24000,Credit Card,USA
+1495,2025-01-03,C471,Smartphone,Electronics,4,20000,80000,Credit Card,India
+1496,2025-01-20,C261,Washing Machine,Home,5,30000,150000,Debit Card,Australia
+1497,2025-01-06,C256,Shoes,Fashion,1,2500,2500,Debit Card,UK
+1498,2025-01-02,C053,Microwave,Home,4,12000,48000,UPI,UK
+1499,2025-01-03,C342,Book,Stationery,4,400,1600,UPI,Germany
+1500,2025-01-24,C081,Washing Machine,Home,2,30000,60000,Credit Card,Canada
+1501,2025-01-30,C120,Laptop,Electronics,3,65000,195000,Credit Card,Canada
+1502,2025-01-14,C215,Laptop,Electronics,1,65000,65000,UPI,Germany
+1503,2025-01-18,C115,Microwave,Home,1,12000,12000,UPI,Australia
+1504,2025-01-14,C009,Book,Stationery,2,400,800,COD,Canada
+1505,2025-01-13,C281,T-Shirt,Fashion,1,800,800,COD,Germany
+1506,2025-01-22,C278,Washing Machine,Home,3,30000,90000,Debit Card,India
+1507,2025-01-14,C004,T-Shirt,Fashion,2,800,1600,COD,Canada
+1508,2025-01-26,C029,Smartphone,Electronics,5,20000,100000,COD,Germany
+1509,2025-01-02,C215,Headphones,Electronics,5,1500,7500,UPI,India
+1510,2025-01-11,C326,Book,Stationery,2,400,800,Debit Card,UK
+1511,2025-01-21,C042,Shoes,Fashion,4,2500,10000,PayPal,Canada
+1512,2025-01-09,C422,Washing Machine,Home,2,30000,60000,UPI,UK
+1513,2025-01-17,C165,Dress,Fashion,1,3500,3500,Debit Card,UK
+1514,2025-01-06,C378,Washing Machine,Home,4,30000,120000,PayPal,USA
+1515,2025-01-23,C117,Washing Machine,Home,2,30000,60000,PayPal,USA
+1516,2025-01-22,C469,Shoes,Fashion,3,2500,7500,PayPal,Canada
+1517,2025-01-25,C287,Headphones,Electronics,3,1500,4500,COD,USA
+1518,2025-01-08,C098,Laptop,Electronics,4,65000,260000,UPI,Germany
+1519,2025-01-13,C309,Dress,Fashion,2,3500,7000,PayPal,Australia
+1520,2025-01-13,C401,Laptop,Electronics,2,65000,130000,COD,Australia
+1521,2025-01-21,C476,Microwave,Home,2,12000,24000,UPI,UK
+1522,2025-01-14,C064,Tablet,Electronics,2,25000,50000,Credit Card,UK
+1523,2025-01-28,C310,Laptop,Electronics,3,65000,195000,COD,India
+1524,2025-01-01,C307,Tablet,Electronics,5,25000,125000,Debit Card,India
+1525,2025-01-04,C371,Tablet,Electronics,2,25000,50000,Credit Card,India
+1526,2025-01-29,C149,Laptop,Electronics,3,65000,195000,COD,Germany
+1527,2025-01-08,C011,Headphones,Electronics,4,1500,6000,Credit Card,Australia
+1528,2025-01-17,C187,Shoes,Fashion,3,2500,7500,Credit Card,Australia
+1529,2025-01-22,C098,Microwave,Home,5,12000,60000,UPI,Germany
+1530,2025-01-24,C289,Dress,Fashion,2,3500,7000,Debit Card,Canada
+1531,2025-01-04,C239,Tablet,Electronics,4,25000,100000,PayPal,Canada
+1532,2025-01-19,C227,Tablet,Electronics,4,25000,100000,Debit Card,Germany
+1533,2025-01-11,C337,Dress,Fashion,3,3500,10500,COD,Australia
+1534,2025-01-13,C491,Dress,Fashion,2,3500,7000,Debit Card,Germany
+1535,2025-01-09,C154,Book,Stationery,2,400,800,Debit Card,USA
+1536,2025-01-21,C073,Book,Stationery,1,400,400,PayPal,Canada
+1537,2025-01-08,C017,Headphones,Electronics,1,1500,1500,UPI,USA
+1538,2025-01-25,C061,Washing Machine,Home,3,30000,90000,COD,UK
+1539,2025-01-08,C042,Tablet,Electronics,1,25000,25000,PayPal,Australia
+1540,2025-01-07,C291,Book,Stationery,3,400,1200,Debit Card,Germany
+1541,2025-01-18,C229,Microwave,Home,4,12000,48000,Credit Card,Germany
+1542,2025-01-12,C435,Book,Stationery,2,400,800,PayPal,Canada
+1543,2025-01-12,C275,T-Shirt,Fashion,5,800,4000,PayPal,UK
+1544,2025-01-12,C443,Dress,Fashion,3,3500,10500,Debit Card,USA
+1545,2025-01-17,C445,Dress,Fashion,1,3500,3500,Debit Card,Australia
+1546,2025-01-10,C057,Tablet,Electronics,1,25000,25000,Debit Card,Canada
+1547,2025-01-15,C012,Book,Stationery,3,400,1200,Debit Card,Germany
+1548,2025-01-08,C479,Book,Stationery,5,400,2000,Credit Card,Canada
+1549,2025-01-17,C215,Book,Stationery,5,400,2000,PayPal,India
+1550,2025-01-22,C464,Microwave,Home,1,12000,12000,Debit Card,Australia
+1551,2025-01-18,C089,Washing Machine,Home,4,30000,120000,UPI,Australia
+1552,2025-01-15,C059,Shoes,Fashion,2,2500,5000,Debit Card,India
+1553,2025-01-09,C365,Washing Machine,Home,2,30000,60000,Credit Card,India
+1554,2025-01-15,C288,Shoes,Fashion,2,2500,5000,Credit Card,UK
+1555,2025-01-16,C199,Laptop,Electronics,1,65000,65000,Debit Card,Canada
+1556,2025-01-23,C282,Washing Machine,Home,5,30000,150000,UPI,UK
+1557,2025-01-22,C250,Tablet,Electronics,5,25000,125000,Debit Card,Germany
+1558,2025-01-07,C137,Dress,Fashion,3,3500,10500,PayPal,Canada
+1559,2025-01-16,C328,Book,Stationery,2,400,800,Debit Card,UK
+1560,2025-01-27,C215,Dress,Fashion,5,3500,17500,PayPal,Canada
+1561,2025-01-18,C223,Washing Machine,Home,4,30000,120000,Debit Card,UK
+1562,2025-01-07,C483,T-Shirt,Fashion,2,800,1600,COD,Australia
+1563,2025-01-27,C490,Smartphone,Electronics,1,20000,20000,PayPal,India
+1564,2025-01-14,C159,Microwave,Home,3,12000,36000,Debit Card,Australia
+1565,2025-01-12,C188,Book,Stationery,5,400,2000,COD,Australia
+1566,2025-01-02,C131,Dress,Fashion,5,3500,17500,Credit Card,Germany
+1567,2025-01-11,C424,T-Shirt,Fashion,2,800,1600,UPI,USA
+1568,2025-01-23,C471,Tablet,Electronics,4,25000,100000,COD,Germany
+1569,2025-01-07,C015,Laptop,Electronics,1,65000,65000,UPI,UK
+1570,2025-01-04,C349,Tablet,Electronics,1,25000,25000,PayPal,UK
+1571,2025-01-13,C210,Microwave,Home,1,12000,12000,COD,USA
+1572,2025-01-16,C493,T-Shirt,Fashion,2,800,1600,PayPal,Australia
+1573,2025-01-12,C382,Book,Stationery,2,400,800,Debit Card,UK
+1574,2025-01-23,C227,T-Shirt,Fashion,2,800,1600,UPI,UK
+1575,2025-01-02,C414,Microwave,Home,3,12000,36000,COD,USA
+1576,2025-01-23,C269,Dress,Fashion,5,3500,17500,COD,UK
+1577,2025-01-18,C416,Smartphone,Electronics,3,20000,60000,UPI,USA
+1578,2025-01-27,C039,Dress,Fashion,4,3500,14000,Credit Card,Germany
+1579,2025-01-29,C446,Microwave,Home,1,12000,12000,COD,UK
+1580,2025-01-29,C318,Book,Stationery,5,400,2000,COD,India
+1581,2025-01-12,C185,Headphones,Electronics,4,1500,6000,UPI,UK
+1582,2025-01-15,C377,Headphones,Electronics,2,1500,3000,COD,Germany
+1583,2025-01-30,C409,Dress,Fashion,4,3500,14000,Credit Card,Australia
+1584,2025-01-05,C065,Tablet,Electronics,1,25000,25000,PayPal,Australia
+1585,2025-01-03,C429,Microwave,Home,2,12000,24000,UPI,India
+1586,2025-01-04,C146,Shoes,Fashion,5,2500,12500,COD,India
+1587,2025-01-25,C432,Smartphone,Electronics,1,20000,20000,PayPal,Canada
+1588,2025-01-21,C494,Smartphone,Electronics,1,20000,20000,COD,Germany
+1589,2025-01-15,C305,Microwave,Home,1,12000,12000,COD,India
+1590,2025-01-24,C452,Dress,Fashion,4,3500,14000,UPI,UK
+1591,2025-01-27,C293,Laptop,Electronics,5,65000,325000,Debit Card,Australia
+1592,2025-01-05,C427,Smartphone,Electronics,4,20000,80000,UPI,Germany
+1593,2025-01-06,C295,T-Shirt,Fashion,3,800,2400,Credit Card,India
+1594,2025-01-30,C333,Shoes,Fashion,2,2500,5000,UPI,Canada
+1595,2025-01-25,C199,Dress,Fashion,4,3500,14000,COD,Australia
+1596,2025-01-04,C059,Washing Machine,Home,4,30000,120000,COD,India
+1597,2025-01-29,C063,Washing Machine,Home,5,30000,150000,Credit Card,Australia
+1598,2025-01-19,C493,Book,Stationery,2,400,800,UPI,Australia
+1599,2025-01-11,C226,Tablet,Electronics,1,25000,25000,PayPal,India
+1600,2025-01-26,C425,Shoes,Fashion,1,2500,2500,COD,USA
+1601,2025-01-26,C259,Dress,Fashion,5,3500,17500,UPI,Australia
+1602,2025-01-05,C054,Dress,Fashion,1,3500,3500,PayPal,India
+1603,2025-01-09,C099,Tablet,Electronics,4,25000,100000,Debit Card,India
+1604,2025-01-26,C241,Shoes,Fashion,5,2500,12500,PayPal,UK
+1605,2025-01-27,C490,Book,Stationery,3,400,1200,Debit Card,Germany
+1606,2025-01-18,C338,Book,Stationery,1,400,400,UPI,UK
+1607,2025-01-24,C003,Washing Machine,Home,3,30000,90000,COD,Germany
+1608,2025-01-06,C269,T-Shirt,Fashion,5,800,4000,UPI,Germany
+1609,2025-01-15,C089,Washing Machine,Home,1,30000,30000,COD,India
+1610,2025-01-04,C398,Tablet,Electronics,5,25000,125000,PayPal,Canada
+1611,2025-01-02,C267,Microwave,Home,1,12000,12000,PayPal,UK
+1612,2025-01-24,C323,Headphones,Electronics,3,1500,4500,Credit Card,USA
+1613,2025-01-28,C029,Dress,Fashion,1,3500,3500,PayPal,Germany
+1614,2025-01-03,C409,T-Shirt,Fashion,2,800,1600,Credit Card,Canada
+1615,2025-01-12,C170,Smartphone,Electronics,1,20000,20000,Credit Card,UK
+1616,2025-01-15,C040,Headphones,Electronics,1,1500,1500,PayPal,USA
+1617,2025-01-05,C395,Microwave,Home,3,12000,36000,Debit Card,USA
+1618,2025-01-02,C472,Laptop,Electronics,4,65000,260000,PayPal,UK
+1619,2025-01-15,C038,Book,Stationery,3,400,1200,Debit Card,Germany
+1620,2025-01-05,C176,Microwave,Home,2,12000,24000,PayPal,Canada
+1621,2025-01-18,C454,Microwave,Home,5,12000,60000,Debit Card,India
+1622,2025-01-28,C176,T-Shirt,Fashion,5,800,4000,COD,USA
+1623,2025-01-28,C453,Laptop,Electronics,5,65000,325000,COD,Germany
+1624,2025-01-17,C114,Tablet,Electronics,5,25000,125000,PayPal,Canada
+1625,2025-01-30,C349,Tablet,Electronics,3,25000,75000,UPI,Australia
+1626,2025-01-26,C323,Tablet,Electronics,2,25000,50000,UPI,Canada
+1627,2025-01-08,C347,Microwave,Home,5,12000,60000,Credit Card,India
+1628,2025-01-13,C289,Microwave,Home,3,12000,36000,COD,USA
+1629,2025-01-16,C168,Headphones,Electronics,4,1500,6000,Debit Card,Germany
+1630,2025-01-01,C059,Headphones,Electronics,3,1500,4500,COD,Germany
+1631,2025-01-16,C169,Smartphone,Electronics,5,20000,100000,UPI,Canada
+1632,2025-01-11,C045,Book,Stationery,1,400,400,Credit Card,Canada
+1633,2025-01-21,C170,Smartphone,Electronics,4,20000,80000,COD,India
+1634,2025-01-31,C155,T-Shirt,Fashion,4,800,3200,Credit Card,USA
+1635,2025-01-07,C133,Tablet,Electronics,3,25000,75000,COD,UK
+1636,2025-01-13,C314,Smartphone,Electronics,1,20000,20000,PayPal,India
+1637,2025-01-19,C031,Washing Machine,Home,2,30000,60000,UPI,UK
+1638,2025-01-10,C160,Washing Machine,Home,3,30000,90000,PayPal,Australia
+1639,2025-01-21,C158,Laptop,Electronics,2,65000,130000,Credit Card,Canada
+1640,2025-01-04,C258,Microwave,Home,5,12000,60000,PayPal,Canada
+1641,2025-01-29,C012,Dress,Fashion,2,3500,7000,PayPal,Canada
+1642,2025-01-13,C046,Book,Stationery,3,400,1200,UPI,India
+1643,2025-01-17,C233,Tablet,Electronics,1,25000,25000,UPI,India
+1644,2025-01-08,C223,Book,Stationery,2,400,800,UPI,UK
+1645,2025-01-28,C448,Headphones,Electronics,5,1500,7500,COD,India
+1646,2025-01-03,C496,Washing Machine,Home,3,30000,90000,PayPal,India
+1647,2025-01-30,C455,Smartphone,Electronics,2,20000,40000,Debit Card,Germany
+1648,2025-01-09,C224,Washing Machine,Home,2,30000,60000,PayPal,India
+1649,2025-01-31,C412,Dress,Fashion,4,3500,14000,COD,Germany
+1650,2025-01-15,C222,Dress,Fashion,5,3500,17500,PayPal,India
+1651,2025-01-29,C278,Dress,Fashion,4,3500,14000,UPI,USA
+1652,2025-01-20,C352,T-Shirt,Fashion,4,800,3200,Debit Card,USA
+1653,2025-01-18,C324,Tablet,Electronics,3,25000,75000,Credit Card,Australia
+1654,2025-01-17,C012,Tablet,Electronics,1,25000,25000,Debit Card,Canada
+1655,2025-01-10,C374,Laptop,Electronics,1,65000,65000,PayPal,UK
+1656,2025-01-22,C474,T-Shirt,Fashion,3,800,2400,Debit Card,USA
+1657,2025-01-18,C306,T-Shirt,Fashion,5,800,4000,UPI,Germany
+1658,2025-01-12,C164,Headphones,Electronics,3,1500,4500,Credit Card,Australia
+1659,2025-01-03,C436,Microwave,Home,5,12000,60000,Debit Card,USA
+1660,2025-01-12,C007,Shoes,Fashion,5,2500,12500,COD,USA
+1661,2025-01-11,C033,Tablet,Electronics,3,25000,75000,UPI,India
+1662,2025-01-11,C058,Headphones,Electronics,2,1500,3000,Debit Card,UK
+1663,2025-01-02,C430,Dress,Fashion,2,3500,7000,PayPal,Canada
+1664,2025-01-29,C004,Headphones,Electronics,1,1500,1500,COD,Canada
+1665,2025-01-03,C397,Book,Stationery,1,400,400,COD,UK
+1666,2025-01-07,C271,Dress,Fashion,5,3500,17500,Credit Card,USA
+1667,2025-01-29,C075,Tablet,Electronics,4,25000,100000,Debit Card,Germany
+1668,2025-01-02,C175,Shoes,Fashion,4,2500,10000,PayPal,Germany
+1669,2025-01-22,C459,Smartphone,Electronics,3,20000,60000,PayPal,USA
+1670,2025-01-03,C337,Smartphone,Electronics,4,20000,80000,Debit Card,Australia
+1671,2025-01-24,C092,Microwave,Home,5,12000,60000,PayPal,Canada
+1672,2025-01-21,C303,T-Shirt,Fashion,5,800,4000,COD,Canada
+1673,2025-01-27,C084,Laptop,Electronics,3,65000,195000,Credit Card,UK
+1674,2025-01-25,C453,T-Shirt,Fashion,3,800,2400,PayPal,UK
+1675,2025-01-27,C257,Washing Machine,Home,2,30000,60000,Debit Card,Australia
+1676,2025-01-28,C422,Smartphone,Electronics,2,20000,40000,Debit Card,Germany
+1677,2025-01-29,C163,Tablet,Electronics,1,25000,25000,UPI,Canada
+1678,2025-01-25,C280,Washing Machine,Home,4,30000,120000,COD,Canada
+1679,2025-01-18,C271,Laptop,Electronics,4,65000,260000,UPI,UK
+1680,2025-01-16,C027,Smartphone,Electronics,4,20000,80000,Credit Card,USA
+1681,2025-01-14,C473,Book,Stationery,1,400,400,PayPal,Canada
+1682,2025-01-29,C309,Book,Stationery,3,400,1200,COD,Australia
+1683,2025-01-14,C050,Washing Machine,Home,4,30000,120000,Credit Card,India
+1684,2025-01-07,C387,Headphones,Electronics,5,1500,7500,COD,Canada
+1685,2025-01-12,C181,Smartphone,Electronics,4,20000,80000,Debit Card,UK
+1686,2025-01-26,C387,Smartphone,Electronics,4,20000,80000,Debit Card,Germany
+1687,2025-01-14,C015,Book,Stationery,1,400,400,UPI,Canada
+1688,2025-01-30,C206,Headphones,Electronics,1,1500,1500,PayPal,India
+1689,2025-01-30,C236,Washing Machine,Home,4,30000,120000,UPI,Australia
+1690,2025-01-04,C009,Laptop,Electronics,1,65000,65000,Debit Card,UK
+1691,2025-01-28,C319,Microwave,Home,5,12000,60000,Debit Card,UK
+1692,2025-01-21,C386,Tablet,Electronics,3,25000,75000,Debit Card,Canada
+1693,2025-01-13,C209,Book,Stationery,5,400,2000,UPI,India
+1694,2025-01-18,C478,Microwave,Home,2,12000,24000,PayPal,Australia
+1695,2025-01-14,C495,Laptop,Electronics,3,65000,195000,Debit Card,India
+1696,2025-01-13,C217,T-Shirt,Fashion,1,800,800,PayPal,India
+1697,2025-01-28,C102,Shoes,Fashion,1,2500,2500,Debit Card,Australia
+1698,2025-01-08,C267,Smartphone,Electronics,3,20000,60000,PayPal,India
+1699,2025-01-24,C041,Headphones,Electronics,1,1500,1500,UPI,UK
+1700,2025-01-12,C377,Smartphone,Electronics,4,20000,80000,COD,Germany
+1701,2025-01-20,C161,Dress,Fashion,2,3500,7000,COD,UK
+1702,2025-01-08,C416,Laptop,Electronics,2,65000,130000,COD,Australia
+1703,2025-01-28,C353,Laptop,Electronics,2,65000,130000,Credit Card,USA
+1704,2025-01-01,C289,Washing Machine,Home,1,30000,30000,UPI,Germany
+1705,2025-01-13,C414,Microwave,Home,1,12000,12000,PayPal,Canada
+1706,2025-01-13,C116,Shoes,Fashion,2,2500,5000,COD,Australia
+1707,2025-01-22,C103,Tablet,Electronics,2,25000,50000,Debit Card,India
+1708,2025-01-06,C359,Dress,Fashion,2,3500,7000,Debit Card,Germany
+1709,2025-01-14,C122,Laptop,Electronics,2,65000,130000,UPI,USA
+1710,2025-01-15,C482,Book,Stationery,2,400,800,Debit Card,Australia
+1711,2025-01-23,C428,Headphones,Electronics,1,1500,1500,COD,India
+1712,2025-01-08,C459,Book,Stationery,5,400,2000,PayPal,Canada
+1713,2025-01-03,C123,Microwave,Home,1,12000,12000,UPI,Australia
+1714,2025-01-06,C073,Dress,Fashion,1,3500,3500,Debit Card,USA
+1715,2025-01-18,C204,T-Shirt,Fashion,2,800,1600,PayPal,Canada
+1716,2025-01-28,C318,Microwave,Home,4,12000,48000,PayPal,India
+1717,2025-01-30,C111,T-Shirt,Fashion,3,800,2400,COD,Australia
+1718,2025-01-31,C007,Microwave,Home,3,12000,36000,UPI,USA
+1719,2025-01-20,C208,Smartphone,Electronics,4,20000,80000,Credit Card,Germany
+1720,2025-01-06,C314,Headphones,Electronics,2,1500,3000,UPI,Germany
+1721,2025-01-31,C003,Laptop,Electronics,1,65000,65000,COD,USA
+1722,2025-01-28,C362,Tablet,Electronics,3,25000,75000,UPI,Germany
+1723,2025-01-18,C012,Shoes,Fashion,4,2500,10000,COD,USA
+1724,2025-01-13,C025,Shoes,Fashion,5,2500,12500,Debit Card,Canada
+1725,2025-01-19,C122,Smartphone,Electronics,3,20000,60000,PayPal,USA
+1726,2025-01-23,C238,Laptop,Electronics,4,65000,260000,COD,UK
+1727,2025-01-13,C392,Smartphone,Electronics,5,20000,100000,UPI,India
+1728,2025-01-23,C309,Laptop,Electronics,3,65000,195000,Credit Card,USA
+1729,2025-01-12,C082,Dress,Fashion,2,3500,7000,UPI,Australia
+1730,2025-01-19,C150,Shoes,Fashion,5,2500,12500,Debit Card,Australia
+1731,2025-01-24,C361,T-Shirt,Fashion,3,800,2400,PayPal,India
+1732,2025-01-03,C412,Laptop,Electronics,2,65000,130000,PayPal,USA
+1733,2025-01-19,C035,T-Shirt,Fashion,5,800,4000,UPI,Canada
+1734,2025-01-29,C438,Book,Stationery,1,400,400,Credit Card,Australia
+1735,2025-01-07,C332,Tablet,Electronics,1,25000,25000,Credit Card,India
+1736,2025-01-30,C213,Dress,Fashion,2,3500,7000,PayPal,India
+1737,2025-01-29,C024,Shoes,Fashion,4,2500,10000,Credit Card,Australia
+1738,2025-01-05,C004,Tablet,Electronics,4,25000,100000,UPI,USA
+1739,2025-01-12,C382,Microwave,Home,4,12000,48000,Credit Card,Australia
+1740,2025-01-28,C152,Book,Stationery,2,400,800,Credit Card,UK
+1741,2025-01-17,C435,Washing Machine,Home,1,30000,30000,Credit Card,India
+1742,2025-01-04,C250,Washing Machine,Home,5,30000,150000,UPI,Canada
+1743,2025-01-02,C228,T-Shirt,Fashion,2,800,1600,Debit Card,Germany
+1744,2025-01-15,C418,Microwave,Home,4,12000,48000,Debit Card,USA
+1745,2025-01-06,C295,Shoes,Fashion,2,2500,5000,Credit Card,UK
+1746,2025-01-19,C371,Book,Stationery,2,400,800,Debit Card,Germany
+1747,2025-01-22,C125,T-Shirt,Fashion,4,800,3200,PayPal,Australia
+1748,2025-01-03,C237,Tablet,Electronics,2,25000,50000,UPI,Australia
+1749,2025-01-08,C021,Laptop,Electronics,1,65000,65000,COD,India
+1750,2025-01-03,C282,Headphones,Electronics,4,1500,6000,COD,Germany
+1751,2025-01-16,C478,Shoes,Fashion,2,2500,5000,UPI,UK
+1752,2025-01-12,C014,Tablet,Electronics,2,25000,50000,UPI,UK
+1753,2025-01-23,C293,Tablet,Electronics,5,25000,125000,Credit Card,Canada
+1754,2025-01-06,C493,Book,Stationery,1,400,400,COD,Germany
+1755,2025-01-30,C316,Shoes,Fashion,5,2500,12500,COD,Australia
+1756,2025-01-15,C014,Washing Machine,Home,1,30000,30000,Credit Card,Canada
+1757,2025-01-20,C130,Smartphone,Electronics,1,20000,20000,UPI,UK
+1758,2025-01-27,C345,Washing Machine,Home,1,30000,30000,PayPal,Germany
+1759,2025-01-28,C066,Smartphone,Electronics,3,20000,60000,PayPal,Canada
+1760,2025-01-05,C261,Tablet,Electronics,1,25000,25000,Debit Card,UK
+1761,2025-01-08,C460,Book,Stationery,4,400,1600,Debit Card,India
+1762,2025-01-13,C407,Dress,Fashion,3,3500,10500,UPI,Canada
+1763,2025-01-10,C195,T-Shirt,Fashion,2,800,1600,COD,Canada
+1764,2025-01-29,C266,Washing Machine,Home,4,30000,120000,Debit Card,UK
+1765,2025-01-30,C361,Smartphone,Electronics,1,20000,20000,PayPal,UK
+1766,2025-01-05,C276,Washing Machine,Home,3,30000,90000,COD,Germany
+1767,2025-01-12,C001,Shoes,Fashion,1,2500,2500,COD,UK
+1768,2025-01-22,C468,Microwave,Home,4,12000,48000,UPI,Australia
+1769,2025-01-25,C107,Washing Machine,Home,5,30000,150000,COD,India
+1770,2025-01-15,C485,Microwave,Home,4,12000,48000,PayPal,Australia
+1771,2025-01-05,C305,Shoes,Fashion,1,2500,2500,Credit Card,UK
+1772,2025-01-24,C044,Book,Stationery,4,400,1600,Debit Card,Australia
+1773,2025-01-15,C207,T-Shirt,Fashion,4,800,3200,UPI,USA
+1774,2025-01-27,C445,Dress,Fashion,4,3500,14000,PayPal,Canada
+1775,2025-01-18,C334,Dress,Fashion,2,3500,7000,UPI,India
+1776,2025-01-09,C293,Washing Machine,Home,4,30000,120000,Debit Card,Canada
+1777,2025-01-26,C285,Smartphone,Electronics,1,20000,20000,Debit Card,India
+1778,2025-01-23,C035,Smartphone,Electronics,5,20000,100000,Credit Card,India
+1779,2025-01-21,C059,Washing Machine,Home,5,30000,150000,COD,UK
+1780,2025-01-01,C497,T-Shirt,Fashion,3,800,2400,Debit Card,India
+1781,2025-01-14,C012,Headphones,Electronics,2,1500,3000,UPI,USA
+1782,2025-01-20,C181,Washing Machine,Home,2,30000,60000,COD,UK
+1783,2025-01-24,C251,Dress,Fashion,3,3500,10500,Credit Card,Germany
+1784,2025-01-30,C482,Shoes,Fashion,1,2500,2500,Debit Card,Australia
+1785,2025-01-18,C285,Book,Stationery,1,400,400,COD,Germany
+1786,2025-01-07,C223,Washing Machine,Home,3,30000,90000,COD,India
+1787,2025-01-18,C407,Washing Machine,Home,4,30000,120000,PayPal,Australia
+1788,2025-01-06,C340,Washing Machine,Home,5,30000,150000,PayPal,Germany
+1789,2025-01-20,C336,T-Shirt,Fashion,2,800,1600,Credit Card,Germany
+1790,2025-01-10,C380,Smartphone,Electronics,2,20000,40000,Credit Card,UK
+1791,2025-01-21,C129,Washing Machine,Home,5,30000,150000,Credit Card,UK
+1792,2025-01-06,C005,Laptop,Electronics,2,65000,130000,UPI,Canada
+1793,2025-01-01,C311,Shoes,Fashion,2,2500,5000,Credit Card,Australia
+1794,2025-01-11,C458,Dress,Fashion,2,3500,7000,Debit Card,India
+1795,2025-01-18,C145,Laptop,Electronics,2,65000,130000,Credit Card,India
+1796,2025-01-08,C303,Dress,Fashion,1,3500,3500,Debit Card,USA
+1797,2025-01-12,C475,Smartphone,Electronics,1,20000,20000,PayPal,Canada
+1798,2025-01-14,C452,Dress,Fashion,1,3500,3500,PayPal,Canada
+1799,2025-01-01,C147,Book,Stationery,5,400,2000,Debit Card,Canada
+1800,2025-01-16,C069,Headphones,Electronics,1,1500,1500,Debit Card,Australia
+1801,2025-01-26,C446,T-Shirt,Fashion,4,800,3200,Debit Card,Australia
+1802,2025-01-02,C498,Smartphone,Electronics,1,20000,20000,Credit Card,USA
+1803,2025-01-01,C169,Tablet,Electronics,1,25000,25000,PayPal,Australia
+1804,2025-01-16,C269,Microwave,Home,1,12000,12000,COD,India
+1805,2025-01-21,C077,Tablet,Electronics,1,25000,25000,Credit Card,USA
+1806,2025-01-11,C324,Dress,Fashion,2,3500,7000,PayPal,Canada
+1807,2025-01-29,C102,Book,Stationery,4,400,1600,Debit Card,UK
+1808,2025-01-06,C019,Dress,Fashion,2,3500,7000,Debit Card,Canada
+1809,2025-01-18,C397,Tablet,Electronics,1,25000,25000,Credit Card,India
+1810,2025-01-23,C339,Book,Stationery,5,400,2000,Credit Card,India
+1811,2025-01-11,C129,Headphones,Electronics,1,1500,1500,Credit Card,Canada
+1812,2025-01-21,C143,Tablet,Electronics,1,25000,25000,Debit Card,USA
+1813,2025-01-12,C199,T-Shirt,Fashion,5,800,4000,PayPal,UK
+1814,2025-01-19,C316,Microwave,Home,5,12000,60000,Credit Card,Germany
+1815,2025-01-25,C417,Shoes,Fashion,1,2500,2500,UPI,Canada
+1816,2025-01-17,C291,T-Shirt,Fashion,4,800,3200,UPI,Australia
+1817,2025-01-06,C474,T-Shirt,Fashion,3,800,2400,PayPal,USA
+1818,2025-01-03,C456,Tablet,Electronics,2,25000,50000,COD,India
+1819,2025-01-02,C430,Washing Machine,Home,1,30000,30000,COD,USA
+1820,2025-01-03,C085,T-Shirt,Fashion,2,800,1600,UPI,Canada
+1821,2025-01-08,C304,Washing Machine,Home,2,30000,60000,UPI,Canada
+1822,2025-01-06,C412,T-Shirt,Fashion,5,800,4000,UPI,UK
+1823,2025-01-29,C154,Microwave,Home,1,12000,12000,Debit Card,Germany
+1824,2025-01-12,C133,Shoes,Fashion,2,2500,5000,COD,Germany
+1825,2025-01-16,C293,Laptop,Electronics,4,65000,260000,Debit Card,USA
+1826,2025-01-04,C271,Headphones,Electronics,3,1500,4500,PayPal,Germany
+1827,2025-01-16,C343,Headphones,Electronics,2,1500,3000,Credit Card,Australia
+1828,2025-01-12,C379,Laptop,Electronics,3,65000,195000,PayPal,India
+1829,2025-01-13,C021,Microwave,Home,3,12000,36000,PayPal,USA
+1830,2025-01-23,C336,Microwave,Home,5,12000,60000,Debit Card,USA
+1831,2025-01-28,C399,Smartphone,Electronics,1,20000,20000,Credit Card,Australia
+1832,2025-01-04,C203,Book,Stationery,3,400,1200,UPI,UK
+1833,2025-01-15,C324,Shoes,Fashion,5,2500,12500,Credit Card,UK
+1834,2025-01-13,C470,Dress,Fashion,3,3500,10500,PayPal,Canada
+1835,2025-01-02,C334,Book,Stationery,5,400,2000,UPI,Australia
+1836,2025-01-04,C496,Book,Stationery,5,400,2000,PayPal,Germany
+1837,2025-01-20,C494,Laptop,Electronics,3,65000,195000,PayPal,Canada
+1838,2025-01-29,C239,Dress,Fashion,4,3500,14000,UPI,India
+1839,2025-01-03,C136,Laptop,Electronics,2,65000,130000,PayPal,India
+1840,2025-01-04,C158,Tablet,Electronics,2,25000,50000,Credit Card,UK
+1841,2025-01-02,C433,Headphones,Electronics,5,1500,7500,PayPal,UK
+1842,2025-01-04,C090,Smartphone,Electronics,1,20000,20000,Credit Card,Australia
+1843,2025-01-30,C459,Smartphone,Electronics,4,20000,80000,UPI,Australia
+1844,2025-01-10,C039,T-Shirt,Fashion,5,800,4000,UPI,USA
+1845,2025-01-31,C071,T-Shirt,Fashion,1,800,800,PayPal,India
+1846,2025-01-10,C445,Washing Machine,Home,2,30000,60000,UPI,India
+1847,2025-01-24,C036,Laptop,Electronics,4,65000,260000,Credit Card,Australia
+1848,2025-01-04,C374,T-Shirt,Fashion,1,800,800,UPI,USA
+1849,2025-01-12,C376,Shoes,Fashion,5,2500,12500,UPI,Germany
+1850,2025-01-10,C047,Dress,Fashion,3,3500,10500,Debit Card,Germany
+1851,2025-01-13,C375,Shoes,Fashion,5,2500,12500,PayPal,USA
+1852,2025-01-22,C220,Book,Stationery,1,400,400,Credit Card,India
+1853,2025-01-26,C009,Tablet,Electronics,2,25000,50000,Credit Card,Canada
+1854,2025-01-24,C378,Dress,Fashion,1,3500,3500,PayPal,UK
+1855,2025-01-29,C170,Book,Stationery,1,400,400,Debit Card,Germany
+1856,2025-01-26,C347,Book,Stationery,5,400,2000,Credit Card,Australia
+1857,2025-01-04,C050,Washing Machine,Home,3,30000,90000,PayPal,Canada
+1858,2025-01-04,C060,Microwave,Home,2,12000,24000,PayPal,India
+1859,2025-01-25,C146,Headphones,Electronics,3,1500,4500,Debit Card,UK
+1860,2025-01-04,C458,Book,Stationery,1,400,400,UPI,India
+1861,2025-01-23,C242,Smartphone,Electronics,5,20000,100000,UPI,Germany
+1862,2025-01-15,C049,Tablet,Electronics,3,25000,75000,PayPal,Germany
+1863,2025-01-12,C226,Tablet,Electronics,1,25000,25000,COD,Australia
+1864,2025-01-23,C149,Laptop,Electronics,1,65000,65000,Credit Card,India
+1865,2025-01-22,C432,Washing Machine,Home,5,30000,150000,Debit Card,Canada
+1866,2025-01-15,C419,Laptop,Electronics,4,65000,260000,Debit Card,UK
+1867,2025-01-07,C160,Book,Stationery,3,400,1200,COD,USA
+1868,2025-01-10,C457,Book,Stationery,5,400,2000,COD,Canada
+1869,2025-01-29,C441,Shoes,Fashion,1,2500,2500,PayPal,Australia
+1870,2025-01-02,C320,Book,Stationery,3,400,1200,PayPal,UK
+1871,2025-01-07,C085,Headphones,Electronics,2,1500,3000,Debit Card,India
+1872,2025-01-03,C042,Headphones,Electronics,5,1500,7500,UPI,Canada
+1873,2025-01-07,C425,Washing Machine,Home,1,30000,30000,Debit Card,UK
+1874,2025-01-11,C487,Microwave,Home,4,12000,48000,Credit Card,USA
+1875,2025-01-14,C019,Smartphone,Electronics,4,20000,80000,UPI,USA
+1876,2025-01-26,C102,T-Shirt,Fashion,2,800,1600,Credit Card,Germany
+1877,2025-01-07,C109,Dress,Fashion,4,3500,14000,COD,Australia
+1878,2025-01-08,C229,Book,Stationery,1,400,400,UPI,USA
+1879,2025-01-04,C387,T-Shirt,Fashion,1,800,800,COD,USA
+1880,2025-01-08,C353,T-Shirt,Fashion,3,800,2400,COD,USA
+1881,2025-01-06,C425,Washing Machine,Home,4,30000,120000,Debit Card,USA
+1882,2025-01-13,C049,Book,Stationery,4,400,1600,UPI,Germany
+1883,2025-01-02,C444,Smartphone,Electronics,5,20000,100000,Credit Card,UK
+1884,2025-01-12,C027,Shoes,Fashion,5,2500,12500,Credit Card,India
+1885,2025-01-08,C230,Headphones,Electronics,2,1500,3000,COD,Germany
+1886,2025-01-03,C300,Laptop,Electronics,5,65000,325000,UPI,Germany
+1887,2025-01-26,C259,Microwave,Home,2,12000,24000,UPI,India
+1888,2025-01-23,C172,Headphones,Electronics,2,1500,3000,Credit Card,India
+1889,2025-01-06,C209,Washing Machine,Home,3,30000,90000,Credit Card,USA
+1890,2025-01-02,C471,Washing Machine,Home,4,30000,120000,UPI,India
+1891,2025-01-08,C150,Washing Machine,Home,4,30000,120000,Credit Card,India
+1892,2025-01-26,C036,Tablet,Electronics,5,25000,125000,Credit Card,USA
+1893,2025-01-13,C477,Laptop,Electronics,1,65000,65000,Debit Card,UK
+1894,2025-01-23,C208,T-Shirt,Fashion,2,800,1600,Debit Card,UK
+1895,2025-01-30,C158,Smartphone,Electronics,1,20000,20000,Credit Card,UK
+1896,2025-01-23,C400,Washing Machine,Home,4,30000,120000,Debit Card,USA
+1897,2025-01-17,C400,Book,Stationery,4,400,1600,COD,Australia
+1898,2025-01-08,C468,Dress,Fashion,3,3500,10500,COD,Australia
+1899,2025-01-16,C030,T-Shirt,Fashion,5,800,4000,PayPal,Canada
+1900,2025-01-23,C348,Washing Machine,Home,3,30000,90000,PayPal,Canada
+1901,2025-01-08,C118,Washing Machine,Home,5,30000,150000,Debit Card,India
+1902,2025-01-20,C360,Microwave,Home,4,12000,48000,Credit Card,UK
+1903,2025-01-01,C121,Microwave,Home,5,12000,60000,COD,USA
+1904,2025-01-20,C454,Shoes,Fashion,2,2500,5000,UPI,Australia
+1905,2025-01-08,C231,Dress,Fashion,1,3500,3500,PayPal,Canada
+1906,2025-01-21,C272,Smartphone,Electronics,4,20000,80000,PayPal,USA
+1907,2025-01-06,C226,Microwave,Home,5,12000,60000,COD,Canada
+1908,2025-01-14,C292,Headphones,Electronics,1,1500,1500,PayPal,Germany
+1909,2025-01-23,C114,Tablet,Electronics,5,25000,125000,COD,India
+1910,2025-01-02,C361,T-Shirt,Fashion,5,800,4000,COD,Australia
+1911,2025-01-02,C475,Smartphone,Electronics,1,20000,20000,PayPal,Germany
+1912,2025-01-09,C449,Tablet,Electronics,3,25000,75000,Debit Card,UK
+1913,2025-01-03,C180,Book,Stationery,2,400,800,COD,USA
+1914,2025-01-04,C466,Smartphone,Electronics,3,20000,60000,COD,UK
+1915,2025-01-22,C427,Dress,Fashion,4,3500,14000,Debit Card,India
+1916,2025-01-05,C244,Laptop,Electronics,2,65000,130000,PayPal,Australia
+1917,2025-01-12,C239,Laptop,Electronics,1,65000,65000,COD,India
+1918,2025-01-10,C166,Book,Stationery,2,400,800,UPI,Germany
+1919,2025-01-13,C291,Washing Machine,Home,2,30000,60000,COD,Australia
+1920,2025-01-30,C462,Laptop,Electronics,3,65000,195000,UPI,Australia
+1921,2025-01-16,C007,T-Shirt,Fashion,4,800,3200,Debit Card,Canada
+1922,2025-01-14,C073,Smartphone,Electronics,5,20000,100000,UPI,UK
+1923,2025-01-03,C066,Dress,Fashion,3,3500,10500,Credit Card,Australia
+1924,2025-01-02,C419,Laptop,Electronics,2,65000,130000,Credit Card,UK
+1925,2025-01-14,C276,Headphones,Electronics,2,1500,3000,Debit Card,USA
+1926,2025-01-10,C025,Microwave,Home,2,12000,24000,Debit Card,UK
+1927,2025-01-25,C253,Book,Stationery,1,400,400,UPI,Australia
+1928,2025-01-04,C095,Washing Machine,Home,1,30000,30000,COD,USA
+1929,2025-01-14,C336,Smartphone,Electronics,5,20000,100000,PayPal,UK
+1930,2025-01-20,C387,Dress,Fashion,3,3500,10500,UPI,USA
+1931,2025-01-09,C390,Smartphone,Electronics,1,20000,20000,UPI,Canada
+1932,2025-01-13,C117,Dress,Fashion,2,3500,7000,UPI,Australia
+1933,2025-01-08,C405,T-Shirt,Fashion,2,800,1600,Credit Card,USA
+1934,2025-01-04,C025,Book,Stationery,4,400,1600,COD,USA
+1935,2025-01-13,C444,Book,Stationery,4,400,1600,UPI,USA
+1936,2025-01-28,C141,Headphones,Electronics,4,1500,6000,Debit Card,Germany
+1937,2025-01-18,C477,Shoes,Fashion,4,2500,10000,Debit Card,Germany
+1938,2025-01-31,C390,Washing Machine,Home,5,30000,150000,Credit Card,India
+1939,2025-01-11,C254,T-Shirt,Fashion,2,800,1600,Credit Card,UK
+1940,2025-01-28,C151,Headphones,Electronics,3,1500,4500,COD,India
+1941,2025-01-31,C499,Tablet,Electronics,5,25000,125000,COD,Germany
+1942,2025-01-19,C418,Shoes,Fashion,2,2500,5000,UPI,UK
+1943,2025-01-25,C130,Shoes,Fashion,3,2500,7500,Debit Card,UK
+1944,2025-01-18,C253,Book,Stationery,1,400,400,UPI,UK
+1945,2025-01-23,C083,Dress,Fashion,1,3500,3500,Credit Card,India
+1946,2025-01-03,C149,Book,Stationery,1,400,400,UPI,Australia
+1947,2025-01-28,C190,Dress,Fashion,3,3500,10500,UPI,India
+1948,2025-01-07,C080,Microwave,Home,4,12000,48000,UPI,India
+1949,2025-01-01,C260,Tablet,Electronics,4,25000,100000,Debit Card,Canada
+1950,2025-01-07,C040,Washing Machine,Home,1,30000,30000,PayPal,USA
+1951,2025-01-05,C359,Book,Stationery,4,400,1600,Debit Card,USA
+1952,2025-01-20,C221,Headphones,Electronics,4,1500,6000,COD,Germany
+1953,2025-01-04,C124,Tablet,Electronics,2,25000,50000,Credit Card,Canada
+1954,2025-01-31,C485,Book,Stationery,4,400,1600,Debit Card,UK
+1955,2025-01-31,C062,Microwave,Home,5,12000,60000,UPI,Germany
+1956,2025-01-03,C007,Tablet,Electronics,3,25000,75000,PayPal,Australia
+1957,2025-01-28,C470,Washing Machine,Home,5,30000,150000,PayPal,Germany
+1958,2025-01-29,C086,Dress,Fashion,5,3500,17500,COD,India
+1959,2025-01-30,C183,Tablet,Electronics,2,25000,50000,Debit Card,UK
+1960,2025-01-30,C219,Headphones,Electronics,5,1500,7500,Credit Card,Germany
+1961,2025-01-22,C230,Laptop,Electronics,5,65000,325000,Credit Card,Germany
+1962,2025-01-10,C471,Washing Machine,Home,2,30000,60000,COD,Germany
+1963,2025-01-24,C423,Book,Stationery,5,400,2000,COD,Australia
+1964,2025-01-01,C013,T-Shirt,Fashion,5,800,4000,Credit Card,USA
+1965,2025-01-26,C242,T-Shirt,Fashion,5,800,4000,PayPal,UK
+1966,2025-01-21,C181,Laptop,Electronics,2,65000,130000,Credit Card,USA
+1967,2025-01-05,C173,Washing Machine,Home,4,30000,120000,Debit Card,Canada
+1968,2025-01-17,C483,Dress,Fashion,1,3500,3500,Debit Card,India
+1969,2025-01-28,C395,Dress,Fashion,5,3500,17500,Debit Card,USA
+1970,2025-01-20,C256,Shoes,Fashion,5,2500,12500,UPI,Australia
+1971,2025-01-26,C196,Tablet,Electronics,2,25000,50000,UPI,India
+1972,2025-01-20,C112,Headphones,Electronics,4,1500,6000,Debit Card,USA
+1973,2025-01-18,C232,Headphones,Electronics,3,1500,4500,COD,USA
+1974,2025-01-09,C221,T-Shirt,Fashion,4,800,3200,UPI,Germany
+1975,2025-01-29,C422,Shoes,Fashion,2,2500,5000,UPI,UK
+1976,2025-01-21,C042,Microwave,Home,5,12000,60000,UPI,UK
+1977,2025-01-17,C105,Washing Machine,Home,1,30000,30000,UPI,Germany
+1978,2025-01-24,C393,Shoes,Fashion,1,2500,2500,Debit Card,Australia
+1979,2025-01-01,C130,Tablet,Electronics,4,25000,100000,UPI,USA
+1980,2025-01-16,C029,Shoes,Fashion,1,2500,2500,UPI,Canada
+1981,2025-01-10,C242,Microwave,Home,2,12000,24000,Debit Card,Germany
+1982,2025-01-28,C232,Microwave,Home,5,12000,60000,Credit Card,USA
+1983,2025-01-28,C203,Shoes,Fashion,2,2500,5000,Debit Card,UK
+1984,2025-01-08,C443,Washing Machine,Home,1,30000,30000,COD,India
+1985,2025-01-15,C401,Smartphone,Electronics,4,20000,80000,COD,Canada
+1986,2025-01-23,C344,Shoes,Fashion,5,2500,12500,COD,Germany
+1987,2025-01-19,C069,Headphones,Electronics,4,1500,6000,Credit Card,India
+1988,2025-01-01,C087,Laptop,Electronics,5,65000,325000,Debit Card,Germany
+1989,2025-01-08,C333,T-Shirt,Fashion,1,800,800,Credit Card,USA
+1990,2025-01-23,C043,T-Shirt,Fashion,1,800,800,Credit Card,Australia
+1991,2025-01-13,C435,Headphones,Electronics,3,1500,4500,COD,Australia
+1992,2025-01-24,C017,Laptop,Electronics,5,65000,325000,UPI,Australia
+1993,2025-01-20,C277,Dress,Fashion,2,3500,7000,COD,Germany
+1994,2025-01-31,C366,Tablet,Electronics,4,25000,100000,Credit Card,USA
+1995,2025-01-11,C436,Headphones,Electronics,3,1500,4500,PayPal,Germany
+1996,2025-01-07,C499,Washing Machine,Home,4,30000,120000,UPI,Canada
+1997,2025-01-19,C491,Headphones,Electronics,2,1500,3000,Debit Card,Canada
+1998,2025-01-05,C261,Microwave,Home,2,12000,24000,Credit Card,Australia
+1999,2025-01-06,C111,Shoes,Fashion,4,2500,10000,Credit Card,India
+2000,2025-01-17,C223,Smartphone,Electronics,1,20000,20000,COD,UK
