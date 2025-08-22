@@ -1,4 +1,9 @@
-2025-08-21 09:11:25 - DEBUG - This is debug message
-2025-08-21 09:11:25 - INFO - this is logging info
-2025-08-21 09:11:25 - WARNING - this is an warning message
-2025-08-21 09:11:25 - ERROR - this is error message
+2025-08-22 09:11:24 - DEBUG - this is debug message for module1
+2025-08-22 09:11:24 - WARNING - this is warning message for module2
+2025-08-22 09:11:24 - ERROR - this is error message
+2025-08-22 09:11:39 - DEBUG - this is debug message for module1
+2025-08-22 09:11:39 - WARNING - this is warning message for module2
+2025-08-22 09:11:39 - ERROR - this is error message
+2025-08-22 09:12:06 - DEBUG - this is debug message for module1
+2025-08-22 09:12:06 - WARNING - this is warning message for module2
+2025-08-22 09:12:06 - ERROR - this is error message
